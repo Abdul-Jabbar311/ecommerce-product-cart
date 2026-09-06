@@ -1,7 +1,8 @@
 # 🛒 ShopEase - E-Commerce Product Listing & Cart
 
 A modern and responsive e-commerce web application built using **HTML, CSS, and JavaScript**. The application fetches products from the **Fake Store API**, allows users to search and filter products, and provides a fully functional shopping cart.
-
+Deploy Web Link
+https://ecommerce-product-cart-pi.vercel.app/
 ---
 
 ## 🚀 Features
